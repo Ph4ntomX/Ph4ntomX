@@ -3,7 +3,7 @@ Program Languages I Know
 - Java
 - Javascript
 - Html 
-- Css 
+- CSS 
 - C++
 
 About Me
