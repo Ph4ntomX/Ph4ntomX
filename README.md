@@ -7,11 +7,11 @@ Program Languages I Know
 - C++
 
 About Me
-- 👋 Hi, I’m Hamza (hamzahamzahamza online name)
+- 👋 Hi, I’m Phantom
 - 👀 I’m interested in C++ and Luau
 - 🌱 I’m currently learning C++
-- 📫 How to reach me: DM me on discord pkmnchampionhqmza#0015
-- 🏫 I'm studying in Pusat Genius@Pintar Negara Malaysia (currently Bangi campus)
+- 📫 How to reach me: DM me on discord hamzahamzahamza#5684
+- 🏫 I'm studying in Pusat/Kolej Genius@Pintar Negara Malaysia
 
 <!---
 Ph4ntomX/Ph4ntomX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
