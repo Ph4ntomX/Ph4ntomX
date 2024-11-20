@@ -1,9 +1,9 @@
 About Me
 - 👋 Hi, I’m Phantom
-- 👀 I’m interested in C++ and Luau
-- 🌱 I’m currently learning C++
-- 📫 How to reach me: DM me on discord hamzahamzahamza#5684
-- 🏫 I'm studying in Pusat/Kolej Genius@Pintar Negara Malaysia
+- 👀 I’m interested in Dart and Luau
+- 🌱 I’m currently learning Dart
+- 📫 How to reach me: DM me on discord hamzahamzahamza
+- 🏫 I'm studying in Pusat Permata@Pintar Negara UKM, Malaysia
 
 Languages
 - Lua 🟩🟩🟩🟩
