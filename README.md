@@ -14,7 +14,7 @@ I am a computer science student at Pusat Permata@Pintar Negara, UKM. I have been
 I am also the Chief Technology Officer of an up-and-coming technology company, Syncos. Check out our social media!
 
 - [Instagram](https://www.instagram.com/symcos.hippos/)
-- [Landing Page][#]
+- [Landing Page](#)
 
 ## 🌐 Connect with me:
 
@@ -36,6 +36,7 @@ Languages:
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 
 Developer Tools:
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 Libraries/Frameworks: 
